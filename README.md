@@ -63,7 +63,7 @@ This part of the project adds a graphical user interface (GUI) to the Mall Manag
 2. Clone the Repository: Clone this GitHub repository to your local machine.
 
    ```
-   https://github.com/KuldeepBijarniya/MallFeatures.git
+   https://github.com/overgithubitttttt/Mall-Features.git
    ```
 
 3. Navigate to the Project Directory: Use the terminal or command prompt to navigate the project directory.
